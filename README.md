@@ -183,7 +183,7 @@ After running migrations, you'll have these admin accounts:
 
 | Username | Password | Role | Email |
 |----------|----------|------|-------|
-| admin | Nebulist2024! | admin | admin@nebulist.local |
+| admin | admin123 | admin | admin@nebulist.local |
 | admin2 | admin345 | admin | admin2@nebulist.local |
 | admin3 | admin345 | admin | admin3@nebulist.local |
 
